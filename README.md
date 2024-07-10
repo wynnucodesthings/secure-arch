@@ -65,7 +65,7 @@ cfdisk /dev/NAME-OF-YOUR-DISK
 ```
 
 You should get something like this:
-![[Pasted image 20240710211444.png]]
+![Pasted image 20240710211444 1](https://github.com/wynnucodesthings/schizoinstall/assets/116518168/b40c40e5-f1ea-4e71-8210-78068df299e2)
 Delete any existing partition there is, and make two partitions:
 - 1G efi partition(You can select the type in the Type tab when you select it).
 - xG Linux root (x86-64) partition which will be your root partition(To select the type repeat the previous step).
