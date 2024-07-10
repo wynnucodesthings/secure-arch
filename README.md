@@ -1,3 +1,4 @@
+# Arch linux install.
 Welcome to yet another arch install! This arch install will be mostly based off of the [arch installation guide](https://wiki.archlinux.org/title/installation_guide), however with the addition of things such as SecureBoot, luksEncrpytion and TPM 2.0 and additional tweaks that I will do along the way, that therefore make the system extremely secure and optimized.
 
 ### Prerequisites
