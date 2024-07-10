@@ -46,7 +46,7 @@ Start creating your partitions by:
 # check your disks and find which one you want to partition:
 lsblk
 ```
-In my cafe the output of that command looks like this:
+In my case the output of that command looks like this:
 ```shell
 NAME        MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINTS  
 sda           8:0    0 931.5G  0 disk     
