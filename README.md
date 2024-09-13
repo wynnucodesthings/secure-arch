@@ -280,4 +280,4 @@ Now you can do whatever tweaking and installation you would like to do(Installin
 
 In the next following steps I'll show you the extra tweaks I was talking about and then this documentation will come to an end.
 
-UNDER CONSTRUCTION!!!
+UNDER CONSTRUCTION!!
